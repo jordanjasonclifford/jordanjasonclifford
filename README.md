@@ -1,3 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=wave&color=0:3a1c71,50:d76d77,100:ffaf7b&height=200&section=header&text=Jordan%20Clifford&fontSize=40&fontColor=ffffff&animation=fadeIn)
+
 #  Hey there, I'm Jordan Clifford ☀️:
 
 🎓 I recently graduated from Arizona State University with a B.S. in Computer Science (Software Engineering)

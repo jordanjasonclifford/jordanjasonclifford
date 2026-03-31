@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  Hey there, I'm Jordan Clifford ☀️:
 
 🎓 I recently graduated from Arizona State University with a B.S. in Computer Science (Software Engineering)
 
@@ -22,8 +22,8 @@
 - Backend development and system design<br>
 - Machine learning workflows and model integration<br><br>
 
-⚡ Fun fact:<br>
-- I prefer building systems that actually run in production over just training models in notebooks
+⚡ Goal:<br>
+- I'd love to start working on real world problems that would require data / backend experience.
 
 
 ## 🌐 Socials:

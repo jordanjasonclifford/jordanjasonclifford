@@ -1,5 +1,29 @@
 # 💫 About Me:
-🔭 I’m currently working on:<br>- Multi-modal route optimization using reinforcement learning (UNLV Smart Cities research)<br>- NBA Data Warehouse + Power BI analytics dashboards<br>- Real-time video analytics system (Shiriki-Eye, edge deployment)<br><br>👯 I’m looking to collaborate on:<br>- Machine learning or data-driven projects with real-world impact<br>- Backend systems, APIs, or data pipelines<br><br>🤝 I’m looking for help with:<br>- Scaling ML systems to production<br>- Improving model performance + deployment workflows<br><br>🌱 I’m currently learning:<br>- Advanced reinforcement learning<br>- Distributed systems + cloud infrastructure (K3s, container orchestration)<br><br>💬 Ask me about:<br>- Machine learning (Random Forest, Q-learning, pipelines)<br>- Data engineering (ETL, PostgreSQL, APIs)<br>- Building real-world systems vs just models<br><br>⚡ Fun fact:<br>- I prefer building systems that actually run in production over just training models in notebooks
+
+🎓 I recently graduated from Arizona State University with a B.S. in Computer Science (Software Engineering)
+
+🔭 I’m currently working on:<br>
+- NBA Data Warehouse + Power BI analytics dashboards (ETL pipelines, PostgreSQL, data modeling)<br><br>
+
+👯 I’m looking to collaborate on:<br>
+- Backend systems, APIs, and data engineering projects<br>
+- Data-driven applications with real-world impact<br><br>
+
+🤝 I’m looking for help with:<br>
+- Scaling backend systems and data pipelines<br>
+- Designing production-ready architectures<br><br>
+
+🌱 I’m currently learning:<br>
+- Distributed systems and cloud infrastructure (Docker, Kubernetes, K3s)<br>
+- Best practices for production data engineering workflows<br><br>
+
+💬 Ask me about:<br>
+- Data engineering (ETL pipelines, PostgreSQL, APIs)<br>
+- Backend development and system design<br>
+- Machine learning workflows and model integration<br><br>
+
+⚡ Fun fact:<br>
+- I prefer building systems that actually run in production over just training models in notebooks
 
 
 ## 🌐 Socials:

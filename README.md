@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=0:3a1c71,50:d76d77,100:ffaf7b&height=200&section=header&text=Jordan%20Clifford&fontSize=40&fontColor=ffffff&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=shark&color=0:1D1160,50:F9A01B,100:E56020&height=300&section=header&text=Jordan%20Clifford&fontSize=48&fontColor=ffffff&fontAlignY=40&desc=Backend%20Engineering%20|%20Data%20Engineering&descSize=20&descAlign=50&descAlignY=60&animation=fadeIn)
 
 #  Hey there, I'm Jordan Clifford ☀️:
 

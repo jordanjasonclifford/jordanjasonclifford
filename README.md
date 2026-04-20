@@ -5,7 +5,7 @@
 🎓 I recently graduated from Arizona State University with a B.S. in Computer Science (Software Engineering)
 
 🔭 I’m currently working on:<br>
-- NBA Data Warehouse + Power BI analytics dashboards (ETL pipelines, PostgreSQL, data modeling)<br><br>
+- NBA Machine Learning Model to Predict the 2026 Playoffs and Beyond! (Dataset nearly done right now)<br><br>
 
 👯 I’m looking to collaborate on:<br>
 - Backend systems, APIs, and data engineering projects<br>
